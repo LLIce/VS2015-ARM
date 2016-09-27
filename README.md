@@ -38,3 +38,4 @@ SET INCLUDE=%VSINSTALLDIR%VC\include;%VSINSTALLDIR%VC\atlmfc\include;%UniversalC
 cd到FFmpegInterop目录 
 BuildFFmpeg.bat phone8.1 win10 ARM 
 等待执行完毕
+
